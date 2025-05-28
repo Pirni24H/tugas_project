@@ -1,0 +1,26 @@
+[
+    {
+        "id": "001TI",
+        "nama": "Pirni",
+        "jurusan": "Teknik Informatika",
+        "sudah_memilih": true
+    },
+    {
+        "id": "002TI",
+        "nama": "Sahla",
+        "jurusan": "Teknik Informatika",
+        "sudah_memilih": true
+    },
+    {
+        "id": "003TI",
+        "nama": "Riko",
+        "jurusan": "Teknik Informatika",
+        "sudah_memilih": false
+    },
+    {
+        "id": "004TI",
+        "nama": "Sendy",
+        "jurusan": "Teknik Informatika",
+        "sudah_memilih": false
+    }
+]
